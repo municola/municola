@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Nicolas 👋🏻
+
+### Find me on the web 🌐:
+- Visit my [website](https://nicolasmuntwyler.gitlab.io/nicolasmuntwyler/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/nicolasmuntwyler/)
 
 <!--
 **municola/municola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
